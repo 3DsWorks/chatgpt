@@ -1,0 +1,5 @@
+C:\Users\xurongyu\Downloads\ChatGPT-master\ChatGPT-master\obj\Debug\net5.0-windows\ChatGPT.csproj.AssemblyReference.cache
+C:\Users\xurongyu\Downloads\ChatGPT-master\ChatGPT-master\obj\Debug\net5.0-windows\ChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xurongyu\Downloads\ChatGPT-master\ChatGPT-master\obj\Debug\net5.0-windows\ChatGPT.AssemblyInfoInputs.cache
+C:\Users\xurongyu\Downloads\ChatGPT-master\ChatGPT-master\obj\Debug\net5.0-windows\ChatGPT.AssemblyInfo.cs
+C:\Users\xurongyu\Downloads\ChatGPT-master\ChatGPT-master\obj\Debug\net5.0-windows\ChatGPT.csproj.CoreCompileInputs.cache

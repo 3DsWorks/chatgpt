@@ -1,0 +1,17 @@
+C:\Users\xurongyu\Downloads\ChatGPT-master\ChatGPT-master\bin\Debug\net6.0\ChatGPT.exe
+C:\Users\xurongyu\Downloads\ChatGPT-master\ChatGPT-master\bin\Debug\net6.0\ChatGPT.deps.json
+C:\Users\xurongyu\Downloads\ChatGPT-master\ChatGPT-master\bin\Debug\net6.0\ChatGPT.runtimeconfig.json
+C:\Users\xurongyu\Downloads\ChatGPT-master\ChatGPT-master\bin\Debug\net6.0\ChatGPT.dll
+C:\Users\xurongyu\Downloads\ChatGPT-master\ChatGPT-master\bin\Debug\net6.0\ChatGPT.pdb
+C:\Users\xurongyu\Downloads\ChatGPT-master\ChatGPT-master\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\xurongyu\Downloads\ChatGPT-master\ChatGPT-master\obj\Debug\net6.0\ChatGPT.csproj.AssemblyReference.cache
+C:\Users\xurongyu\Downloads\ChatGPT-master\ChatGPT-master\obj\Debug\net6.0\ChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xurongyu\Downloads\ChatGPT-master\ChatGPT-master\obj\Debug\net6.0\ChatGPT.AssemblyInfoInputs.cache
+C:\Users\xurongyu\Downloads\ChatGPT-master\ChatGPT-master\obj\Debug\net6.0\ChatGPT.AssemblyInfo.cs
+C:\Users\xurongyu\Downloads\ChatGPT-master\ChatGPT-master\obj\Debug\net6.0\ChatGPT.csproj.CoreCompileInputs.cache
+C:\Users\xurongyu\Downloads\ChatGPT-master\ChatGPT-master\obj\Debug\net6.0\ChatGPT.csproj.CopyComplete
+C:\Users\xurongyu\Downloads\ChatGPT-master\ChatGPT-master\obj\Debug\net6.0\ChatGPT.dll
+C:\Users\xurongyu\Downloads\ChatGPT-master\ChatGPT-master\obj\Debug\net6.0\refint\ChatGPT.dll
+C:\Users\xurongyu\Downloads\ChatGPT-master\ChatGPT-master\obj\Debug\net6.0\ChatGPT.pdb
+C:\Users\xurongyu\Downloads\ChatGPT-master\ChatGPT-master\obj\Debug\net6.0\ChatGPT.genruntimeconfig.cache
+C:\Users\xurongyu\Downloads\ChatGPT-master\ChatGPT-master\obj\Debug\net6.0\ref\ChatGPT.dll
